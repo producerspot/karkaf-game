@@ -178,3 +178,28 @@
 [30Dec2024 21:25:26.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bufi12e[/127.170.147.236:41109] logged in with entity id 645 at (14.5, 65.0, -57.5)
 [30Dec2024 21:25:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e joined the game
 [30Dec2024 21:26:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e has made the advancement [Monster Hunter]
+[30Dec2024 21:28:28.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e fell from a high place
+[30Dec2024 21:29:38.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luimarofi1 a server operator
+[30Dec2024 21:29:56.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luimarofi1: Gamerule keepInventory is now set to: true]
+[30Dec2024 21:30:47.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 was slain by bufi12e
+[30Dec2024 21:30:56.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e has made the advancement [Stone Age]
+[30Dec2024 21:31:15.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e was killed
+[30Dec2024 21:31:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luimarofi1: Killed bufi12e]
+[30Dec2024 21:31:25.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luimarofi1 lost connection: Timed out
+[30Dec2024 21:31:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 left the game
+[30Dec2024 21:31:39.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bufi12e lost connection: Disconnected
+[30Dec2024 21:31:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e left the game
+[30Dec2024 21:32:12.914] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a7bd0f8[id=<null>,name=bufi12e,properties={},legacy=false] (/127.170.147.236:40047) lost connection: Disconnected
+[30Dec2024 21:32:16.964] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e640609[id=<null>,name=luimarofi1,properties={},legacy=false] (/127.106.164.167:49315) lost connection: Disconnected
+[30Dec2024 21:32:28.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bufi12e[/127.170.147.236:39385] logged in with entity id 1707 at (30.218168867422467, 68.0, -40.46412858066635)
+[30Dec2024 21:32:28.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e joined the game
+[30Dec2024 21:32:29.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luimarofi1[/127.106.164.167:56935] logged in with entity id 1765 at (46.97387468921327, 58.24918707874468, -46.15658118124772)
+[30Dec2024 21:32:29.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 joined the game
+[30Dec2024 21:32:34.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=30, y=65, z=-39}
+[30Dec2024 21:32:57.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 was slain by bufi12e
+[30Dec2024 21:33:15.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=68, z=-35}
+[30Dec2024 21:33:15.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=67, z=-35}
+[30Dec2024 21:33:18.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bufi12e lost connection: Disconnected
+[30Dec2024 21:33:18.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e left the game
+[30Dec2024 21:33:39.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luimarofi1 lost connection: Disconnected
+[30Dec2024 21:33:39.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 left the game
