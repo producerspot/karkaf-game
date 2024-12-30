@@ -167,3 +167,14 @@
 [30Dec2024 21:07:28.882] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 62504 ms
 [30Dec2024 21:07:28.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (79.272s)! For help, type "help"
 [30Dec2024 21:07:28.911] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Dec2024 21:24:07.324] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55f97464[id=<null>,name=luimarofi1,properties={},legacy=false] (/127.106.164.167:52693) lost connection: Disconnected
+[30Dec2024 21:24:07.363] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 21:24:27.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luimarofi1[/127.106.164.167:50343] logged in with entity id 374 at (23.5, 66.0, -51.5)
+[30Dec2024 21:24:27.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 joined the game
+[30Dec2024 21:24:57.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luimarofi1 lost connection: Timed out
+[30Dec2024 21:24:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 left the game
+[30Dec2024 21:25:09.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luimarofi1[/127.106.164.167:37039] logged in with entity id 584 at (23.5, 66.0, -51.5)
+[30Dec2024 21:25:09.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 joined the game
+[30Dec2024 21:25:26.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bufi12e[/127.170.147.236:41109] logged in with entity id 645 at (14.5, 65.0, -57.5)
+[30Dec2024 21:25:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e joined the game
+[30Dec2024 21:26:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bufi12e has made the advancement [Monster Hunter]
