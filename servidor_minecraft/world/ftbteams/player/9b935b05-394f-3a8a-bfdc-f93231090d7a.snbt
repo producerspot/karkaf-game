@@ -1,0 +1,20 @@
+{
+	id: "9b935b05-394f-3a8a-bfdc-f93231090d7a"
+	type: "player"
+	player_name: "bufi12e"
+	ranks: {
+		9b935b05-394f-3a8a-bfdc-f93231090d7a: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "bufi12e"
+		"ftbteams:color": "#70FF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

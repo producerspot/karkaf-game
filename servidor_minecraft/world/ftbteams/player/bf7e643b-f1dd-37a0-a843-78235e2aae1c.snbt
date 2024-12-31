@@ -1,0 +1,20 @@
+{
+	id: "bf7e643b-f1dd-37a0-a843-78235e2aae1c"
+	type: "player"
+	player_name: "luimarofi1"
+	ranks: {
+		bf7e643b-f1dd-37a0-a843-78235e2aae1c: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "luimarofi1"
+		"ftbteams:color": "#FFE259"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

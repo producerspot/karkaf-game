@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "9b935b05394f3a8abfdcf93231090d7a"
+	name: "bufi12e"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
