@@ -6,14 +6,11 @@
 		918ade0e-85e5-387e-9783-379d2e1986a5: "owner"
 	}
 	properties: {
-		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "mama_de_tarzan"
-		"ftbteams:color": "#FFAF59"
-		"ftbchunks:block_edit_mode": "allies"
-		"ftbchunks:block_interact_mode": "allies"
 		"ftbteams:description": ""
+		"ftbteams:color": "#FF9A59"
 		"ftbteams:free_to_join": 0b
-		"ftbchunks:allow_fake_players": 1b
+		"ftbteams:max_msg_history_size": 1000
 	}
 	message_history: [ ]
 	extra: { }

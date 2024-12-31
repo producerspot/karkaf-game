@@ -1,13 +1,12 @@
 {
 	version: 1
 	uuid: "918ade0e85e5387e9783379d2e1986a5"
-	name: "mama_de_tarzan"
-	can_edit: false
+	name: "mama_de_tarzan#918ade0e"
 	lock: false
-	auto_pin: false
+	rewards_blocked: false
 	task_progress: { }
 	started: { }
 	completed: { }
 	claimed_rewards: { }
-	pinned_quests: [ ]
+	player_data: { }
 }
