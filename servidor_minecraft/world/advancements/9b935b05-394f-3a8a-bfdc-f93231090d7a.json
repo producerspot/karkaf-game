@@ -12749,6 +12749,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-31 19:20:05 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_sword": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:44:22 +0000"
