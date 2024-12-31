@@ -3671,6 +3671,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-31 18:54:05 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:44:20 +0000"
@@ -22751,6 +22757,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-31 18:54:05 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/grip_blueprint": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:44:20 +0000"
@@ -23425,7 +23437,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-31 18:13:37 +0000"
+      "apple": "2024-12-31 18:13:37 +0000",
+      "melon_slice": "2024-12-31 18:54:20 +0000"
     },
     "done": false
   },

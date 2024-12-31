@@ -743,3 +743,82 @@ java.lang.NullPointerException: null
 [31Dec2024 18:53:50.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
 [31Dec2024 18:54:05.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e has made the advancement [Monster Hunter]
 [31Dec2024 18:54:06.166] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,334.3403418702457,0.0
+[31Dec2024 18:54:51.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by Zombie
+[31Dec2024 18:54:59.665] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,333.7906589524545,0.0
+[31Dec2024 18:55:07.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:55:13.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 fell from a high place
+[31Dec2024 18:55:28.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 18:55:38.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:55:39.434] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/532, l='ServerLevel[OneBlock (1.16.4)]', x=0.50, y=61.00, z=0.50]
+[31Dec2024 18:55:45.348] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,332.3983866664201,0.0
+[31Dec2024 18:55:53.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:55:55.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was slain by bufi12e
+[31Dec2024 18:56:07.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was doomed to fall by mama_de_tarzan
+[31Dec2024 18:56:08.820] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/540, l='ServerLevel[OneBlock (1.16.4)]', x=0.50, y=61.00, z=0.50]
+[31Dec2024 18:56:53.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was doomed to fall by Creeper
+[31Dec2024 18:57:00.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:57:15.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was doomed to fall by mama_de_tarzan
+[31Dec2024 18:57:22.909] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: luimarofi1 moved too quickly! 0.19485709049092237,-10.552241243705609,-0.1607437024641989
+[31Dec2024 18:57:28.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:57:30.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was doomed to fall by bufi12e
+[31Dec2024 18:57:36.980] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,332.4364494696207,0.0
+[31Dec2024 18:57:42.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was doomed to fall by mama_de_tarzan
+[31Dec2024 18:57:53.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:58:02.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:58:04.219] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=60, z=0}
+[31Dec2024 18:58:08.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:58:16.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:58:27.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:58:31.419] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,333.7906589524545,0.0
+[31Dec2024 18:58:36.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 18:58:49.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:58:53.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:59:12.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:59:21.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:59:41.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 18:59:49.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 18:59:56.669] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,332.68323486424083,0.0
+[31Dec2024 19:00:02.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 19:00:17.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:00:21.766] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: luimarofi1 moved too quickly! 0.0,-10.542029998306653,0.056117562508532615
+[31Dec2024 19:00:25.669] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,334.6471706981835,0.0
+[31Dec2024 19:00:29.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was doomed to fall by mama_de_tarzan
+[31Dec2024 19:00:31.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 19:00:41.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:00:50.119] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,332.4364494696207,0.0
+[31Dec2024 19:01:09.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e fell from a high place
+[31Dec2024 19:01:31.465] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,332.4364494696207,0.0
+[31Dec2024 19:01:36.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was doomed to fall by mama_de_tarzan
+[31Dec2024 19:01:45.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:01:45.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:01:52.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:02:03.769] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,334.44236459551723,0.0
+[31Dec2024 19:02:09.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 19:02:17.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:02:22.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:02:31.575] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,332.4364494696207,0.0
+[31Dec2024 19:02:39.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was blown up by Creeper
+[31Dec2024 19:02:39.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:02:47.519] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,333.7906589524545,0.0
+[31Dec2024 19:02:54.272] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@37efc25
+[31Dec2024 19:02:55.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:02:56.160] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/718, l='ServerLevel[OneBlock (1.16.4)]', x=0.50, y=61.00, z=0.50]
+[31Dec2024 19:02:59.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:03:01.355] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: luimarofi1 moved too quickly! 0.0,-14.505656546277859,0.03811043043078488
+[31Dec2024 19:03:03.065] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: luimarofi1 moved too quickly! 0.0,332.93751646929474,0.0
+[31Dec2024 19:03:07.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:03:08.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was doomed to fall by bufi12e
+[31Dec2024 19:03:16.668] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,332.4364494696207,0.0
+[31Dec2024 19:03:19.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 has made the advancement [Acquire Hardware]
+[31Dec2024 19:03:22.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was doomed to fall by mama_de_tarzan
+[31Dec2024 19:03:22.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was slain by mama_de_tarzan
+[31Dec2024 19:03:30.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:03:36.801] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: luimarofi1 moved too quickly! 0.0,333.7906589524545,0.0
+[31Dec2024 19:03:37.569] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,333.7906589524545,0.0
+[31Dec2024 19:03:42.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was doomed to fall by mama_de_tarzan
+[31Dec2024 19:03:43.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 19:03:57.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:04:02.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:04:09.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:04:20.158] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,333.7906589524545,0.0
+[31Dec2024 19:04:25.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e

@@ -3647,6 +3647,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-31 18:52:06 +0000"
+    },
+    "done": false
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_crafter_manager": {
     "criteria": {
       "has_the_recipe": "2024-12-31 07:15:33 +0000"
@@ -17334,6 +17340,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-31 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2024-12-31 07:15:33 +0000"
@@ -22674,6 +22686,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-31 18:52:06 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/grip_blueprint": {
     "criteria": {
       "has_the_recipe": "2024-12-31 07:15:35 +0000"
@@ -23351,6 +23369,12 @@
       "has_the_recipe": "2024-12-31 07:15:34 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2024-12-31 18:54:12 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
