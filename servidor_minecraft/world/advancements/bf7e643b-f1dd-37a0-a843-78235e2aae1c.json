@@ -9258,6 +9258,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 19:03:19 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2024-12-31 07:15:34 +0000"
@@ -15273,6 +15279,12 @@
   "mcwbridges:recipes/crimson_bridge_pier": {
     "criteria": {
       "has_the_recipe": "2024-12-31 07:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-31 19:03:19 +0000"
     },
     "done": true
   },

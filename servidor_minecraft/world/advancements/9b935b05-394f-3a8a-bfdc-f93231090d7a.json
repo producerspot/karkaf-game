@@ -9287,6 +9287,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 19:04:43 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:44:20 +0000"
@@ -13313,6 +13319,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-31 19:11:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:44:19 +0000"
@@ -15314,6 +15326,12 @@
   "mcwbridges:recipes/crimson_bridge_pier": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-31 19:04:43 +0000"
     },
     "done": true
   },

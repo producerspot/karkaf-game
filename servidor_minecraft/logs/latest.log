@@ -822,3 +822,78 @@ java.lang.NullPointerException: null
 [31Dec2024 19:04:09.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
 [31Dec2024 19:04:20.158] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,333.7906589524545,0.0
 [31Dec2024 19:04:25.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 19:04:33.761] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved too quickly! 0.0,334.4374476714206,0.0
+[31Dec2024 19:04:39.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was doomed to fall by mama_de_tarzan
+[31Dec2024 19:04:43.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e has made the advancement [Acquire Hardware]
+[31Dec2024 19:04:46.069] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,333.33669432600334,0.0
+[31Dec2024 19:04:51.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 19:04:58.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:05:05.369] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,332.5711768300839,0.0
+[31Dec2024 19:05:09.960] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: luimarofi1 moved too quickly! 0.0,-15.637669673828766,-0.0030244912764167964
+[31Dec2024 19:05:10.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was doomed to fall by bufi12e
+[31Dec2024 19:05:12.170] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e lost connection: Kicked by an operator
+[31Dec2024 19:05:12.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e left the game
+[31Dec2024 19:05:12.236] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[31Dec2024 19:05:16.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was doomed to fall by bufi12e
+[31Dec2024 19:05:29.458] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@161a454c
+[31Dec2024 19:05:29.812] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4ce16a76
+[31Dec2024 19:05:29.940] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: bufi12e[/127.170.147.236:53561] logged in with entity id 762 at (-0.5144930810362627, 61.0, 8.282590789972243)
+[31Dec2024 19:05:29.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e joined the game
+[31Dec2024 19:05:29.977] [Server thread/INFO] [Waila/]: Syncing config to bufi12e (9b935b05-394f-3a8a-bfdc-f93231090d7a)
+[31Dec2024 19:05:35.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:05:43.290] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[31Dec2024 19:05:43.299] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e moved wrongly!
+[31Dec2024 19:05:50.620] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,334.585881404748,0.0
+[31Dec2024 19:05:54.118] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan lost connection: Kicked by an operator
+[31Dec2024 19:05:54.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan left the game
+[31Dec2024 19:05:59.169] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: bufi12e lost connection: Kicked by an operator
+[31Dec2024 19:05:59.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e left the game
+[31Dec2024 19:06:13.368] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1f2ca4f7[id=<null>,name=mama_de_tarzan,properties={},legacy=false] (/127.195.136.215:46993) lost connection: Disconnected
+[31Dec2024 19:06:14.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5db9166a
+[31Dec2024 19:06:14.483] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: bufi12e[/127.170.147.236:52637] logged in with entity id 765 at (0.23673402018550305, 61.0, 0.5150637101468255)
+[31Dec2024 19:06:14.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e joined the game
+[31Dec2024 19:06:14.517] [Server thread/INFO] [Waila/]: Syncing config to bufi12e (9b935b05-394f-3a8a-bfdc-f93231090d7a)
+[31Dec2024 19:06:28.055] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@cb5d7ef
+[31Dec2024 19:06:28.167] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: mama_de_tarzan[/127.195.136.215:41403] logged in with entity id 766 at (2.8312540396384547, 191.32706809385164, 6.509851116400462)
+[31Dec2024 19:06:28.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan joined the game
+[31Dec2024 19:06:28.199] [Server thread/INFO] [Waila/]: Syncing config to mama_de_tarzan (918ade0e-85e5-387e-9783-379d2e1986a5)
+[31Dec2024 19:07:09.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was slain by mama_de_tarzan
+[31Dec2024 19:07:15.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:07:20.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:08:35.587] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@37efc25
+[31Dec2024 19:09:38.601] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@161a454c
+[31Dec2024 19:09:42.799] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@37efc25
+[31Dec2024 19:10:30.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was slain by mama_de_tarzan
+[31Dec2024 19:11:10.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e has made the advancement [Isn't It Iron Pick]
+[31Dec2024 19:11:12.703] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@5b8e89a8
+[31Dec2024 19:11:18.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan has made the advancement [Acquire Hardware]
+[31Dec2024 19:11:45.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan was slain by bufi12e
+[31Dec2024 19:11:58.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 was slain by bufi12e
+[31Dec2024 19:12:13.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:12:44.640] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@73e3c87d
+[31Dec2024 19:12:49.519] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: mama_de_tarzan moved too quickly! 0.0,333.0851603138454,0.0
+[31Dec2024 19:12:54.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mama_de_tarzan fell from a high place
+[31Dec2024 19:13:03.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e fell from a high place
+[31Dec2024 19:13:18.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bufi12e was slain by mama_de_tarzan
+[31Dec2024 19:13:44.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: luimarofi1 has made the advancement [Take Aim]
