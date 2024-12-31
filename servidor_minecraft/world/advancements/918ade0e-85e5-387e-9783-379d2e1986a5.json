@@ -881,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-31 19:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:59:04 +0000"
@@ -12747,6 +12753,12 @@
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_the_recipe": "2024-12-31 17:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-31 19:27:58 +0000"
     },
     "done": true
   },
