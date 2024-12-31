@@ -3935,3 +3935,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Dec2024 21:12:11.908] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luimarofi1
 [31Dec2024 21:12:57.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 was slain by Zombie
 [31Dec2024 21:13:31.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 was slain by The Moonflower
+[31Dec2024 21:17:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 has made the advancement [Getting an Upgrade]
+[31Dec2024 21:17:17.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[31Dec2024 21:19:13.282] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=427, y=65, z=237}
+[31Dec2024 21:23:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 has made the advancement [Monster Hunter]
+[31Dec2024 21:25:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luimarofi1 a server operator
+[31Dec2024 21:25:27.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luimarofi1: Gamerule keepInventory is now set to: true]
