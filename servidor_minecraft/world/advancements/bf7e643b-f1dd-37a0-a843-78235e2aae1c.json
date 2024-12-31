@@ -11394,6 +11394,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-31 19:39:11 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/windmill": {
     "criteria": {
       "has_the_recipe": "2024-12-31 07:15:35 +0000"
