@@ -1,0 +1,17 @@
+{
+	id: "918ade0e-85e5-387e-9783-379d2e1986a5"
+	type: "player"
+	player_name: "mama_de_tarzan"
+	ranks: {
+		918ade0e-85e5-387e-9783-379d2e1986a5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "mama_de_tarzan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

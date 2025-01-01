@@ -984,33 +984,9 @@
     },
     "done": false
   },
-  "exposure:adventure/moment_in_time": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "get_photograph": "2025-01-01 01:26:22 +0000"
-    },
-    "done": true
-  },
-  "exposure:recipes/copying_color_photograph": {
-    "criteria": {
-      "has_photograph": "2025-01-01 01:29:32 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-01-01 01:26:17 +0000"
-    },
-    "done": false
-  },
-  "exposure:recipes/tools/photograph_frame": {
-    "criteria": {
-      "has_photograph": "2025-01-01 01:26:22 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-01-01 01:26:17 +0000"
+      "minecraft:skeleton": "2025-01-01 01:25:56 +0000"
     },
     "done": true
   },
@@ -1032,21 +1008,45 @@
     },
     "done": true
   },
-  "exposure:recipes/copying_black_and_white_photograph": {
-    "criteria": {
-      "has_photograph": "2025-01-01 01:29:32 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-01-01 01:25:58 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "lootr:social": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-01 01:25:56 +0000"
+      "opened_chest": "2025-01-01 01:26:17 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-01 01:26:17 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2025-01-01 01:26:22 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2025-01-01 01:26:22 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2025-01-01 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2025-01-01 01:29:32 +0000"
     },
     "done": true
   },

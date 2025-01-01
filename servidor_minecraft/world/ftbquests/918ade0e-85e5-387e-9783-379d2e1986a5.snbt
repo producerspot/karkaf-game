@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "918ade0e85e5387e9783379d2e1986a5"
+	name: "mama_de_tarzan#918ade0e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
