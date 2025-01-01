@@ -5144,3 +5144,14 @@ java.lang.ArrayIndexOutOfBoundsException: null
 [01Jan2025 19:57:01.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 joined the game
 [01Jan2025 19:57:02.581] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luimarofi1 (18)
 [01Jan2025 19:57:02.583] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luimarofi1
+[01Jan2025 19:57:32.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luimarofi1 lost connection: Timed out
+[01Jan2025 19:57:32.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 left the game
+[01Jan2025 19:57:32.057] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luimarofi1
+[01Jan2025 20:00:33.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luimarofi1[/127.106.164.167:35601] logged in with entity id 3153 at (-48.74390339331942, 311.0, -46.60194291606997)
+[01Jan2025 20:00:33.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 joined the game
+[01Jan2025 20:00:33.815] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luimarofi1 (18)
+[01Jan2025 20:00:33.816] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luimarofi1
+[01Jan2025 20:01:03.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luimarofi1 lost connection: Timed out
+[01Jan2025 20:01:03.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luimarofi1 left the game
+[01Jan2025 20:01:03.457] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luimarofi1
+[01Jan2025 20:02:08.444] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e9a6fb5[id=<null>,name=luimarofi1,properties={},legacy=false] (/127.106.164.167:37781) lost connection: Disconnected
