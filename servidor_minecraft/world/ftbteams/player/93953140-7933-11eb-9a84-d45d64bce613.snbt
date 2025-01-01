@@ -1,0 +1,17 @@
+{
+	id: "93953140-7933-11eb-9a84-d45d64bce613"
+	type: "player"
+	player_name: "luimarofi1"
+	ranks: {
+		93953140-7933-11eb-9a84-d45d64bce613: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "luimarofi1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "121ca270-1417-3f6f-a129-d281d6671ee8"
+	type: "player"
+	player_name: "PEDROVERGUDO"
+	ranks: {
+		121ca270-1417-3f6f-a129-d281d6671ee8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PEDROVERGUDO"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
