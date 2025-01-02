@@ -6,24 +6,20 @@
   "bullet": {
     "life": 3,
     "bullet_amount": 1,
-    "damage": 20,
+    "damage": 50,
     "extra_damage": {
       "armor_ignore": 0.0,
       "head_shot_multiplier": 1
     },
     "speed": 80,
-    "gravity": 0.015,
+    "gravity": 0.01,
     "knockback": 0,
     "friction": 0.005,
     "ignite": false,
     "pierce": 0,
     "explosion": {
-      "explode": true,
       "damage": 120,
-      "radius": 3,
-      "knockback": true,
-      "destroy_block": true,
-      "delay": 30
+      "radius": 3
     }
   },
   "reload": {
@@ -41,13 +37,6 @@
   "put_away_time": 0.73,
   "aim_time": 0.2,
   "sprint_time": 0.2,
-  "weight": 6.3,
-  "movement_speed": {
-    "base": 0.0,
-    "aim": -0.25,
-    "reload": -0.2
-  },
-  "crawl_recoil_multiplier": 0.5,
   "fire_mode": [
     "semi"
   ],
@@ -84,11 +73,11 @@
       // 动画类型：没有枪托的为 melee_push，有枪托的为 melee_stock
       "animation_type": "melee_stock",
       // 刺刀距离参数，枪械里还有个刺刀攻击距离参数，两者做加和
-      "distance": 1.5,
+      "distance": 0,
       // 刺刀范围角度
       "range_angle": 30,
       // 伤害值
-      "damage": 5,
+      "damage": 2,
       // 击退效果
       "knockback": 0.75,
       // 前摇时长，单位：秒

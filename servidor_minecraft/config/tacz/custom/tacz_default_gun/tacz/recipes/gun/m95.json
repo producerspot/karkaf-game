@@ -1,34 +1,35 @@
 {
   "materials": [
+    
     {
       "item": {
-        "tag": "forge:gems/diamond"
+        "item": "mcore:titanium_ingot"
+      },
+      "count": 30
+    },
+     {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
       },
       "count": 15
     },
     {
       "item": {
-        "tag": "forge:ingots/gold"
+        "item": "cw_additions:rubber_sheet"
       },
-      "count": 60
+      "count": 20
     },
     {
       "item": {
-        "tag": "forge:ingots/netherite"
+        "item": "pointblank:guninternals"
       },
-      "count": 3
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 300
-    },
-    {
-      "item": {
-        "tag": "forge:rods/blaze"
-      },
-      "count": 5
+      "count": 10
     }
   ],
   "result": {

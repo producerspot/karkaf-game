@@ -2,21 +2,29 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 32
-    },
-    {
-      "item": {
-        "tag": "forge:gems/lapis"
+        "item": "pointblank:guninternals"
       },
       "count": 6
     },
     {
       "item": {
-        "tag": "minecraft:logs"
+        "item": "the_deep_void:refined_onyx"
       },
       "count": 6
+    },
+ 
+   
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "cw_additions:rubber_sheet"
+      },
+      "count": 15
     }
   ],
   "result": {

@@ -3,38 +3,31 @@
   "ammo_amount": 5,
   "extended_mag_ammo_amount": [
     6,
-    7,
-    8
+    8,
+    10
   ],
   "bolt": "manual_action",
   "rpm": 171,
   "bullet": {
     "life": 0.9,
     "bullet_amount": 1,
-    "damage": 42,
+    "damage": 45,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 0.60,
+      "armor_ignore": 0.00,
       "head_shot_multiplier": 2,
       "damage_adjust": [
-        {"distance": 80, "damage": 42},
-        {"distance": 160, "damage": 36},
-        {"distance": "infinite", "damage": 26}
+        {"distance": 80, "damage": 40},
+        {"distance": 160, "damage": 37},
+        {"distance": "infinite", "damage": 30}
       ]
     },
     "speed": 450,
-    "gravity": 0.15,
+    "gravity": 0.098,
     "knockback": 0,
     "friction": 0.015,
     "ignite": false,
-    "pierce": 4,
-    "explosion": {
-      "explode": false,
-      "damage": 60,
-      "radius": 1.25,
-      "knockback": true,
-      "delay": 1
-    }
+    "pierce": 4
   },
   "reload": {
     "type": "magazine",
@@ -52,13 +45,6 @@
   "aim_time": 0.25,
   "sprint_time": 0.2,
   "bolt_action_time": 0.9,
-  "weight": 6.9,
-  "movement_speed": {
-    "base": 0.0,
-    "aim": -0.4,
-    "reload": -0.2
-  },
-  "crawl_recoil_multiplier": 0.25,
   "fire_mode": [
     "semi"
   ],
@@ -96,13 +82,13 @@
       // 动画类型：没有枪托的为 melee_push，有枪托的为 melee_stock
       "animation_type": "melee_stock",
       // 刺刀距离参数，枪械里还有个刺刀攻击距离参数，两者做加和
-      "distance": 1.25,
+      "distance": 0,
       // 刺刀范围角度
       "range_angle": 30,
       // 伤害值
-      "damage": 5,
+      "damage": 2,
       // 击退效果
-      "knockback": 1,
+      "knockback": 0.75,
       // 前摇时长，单位：秒
       "prep": 0.1
     }

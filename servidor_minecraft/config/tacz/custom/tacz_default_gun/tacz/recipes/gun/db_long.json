@@ -2,15 +2,21 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "pointblank:guninternals"
       },
-      "count": 14
+      "count": 2
     },
     {
       "item": {
-        "tag": "minecraft:logs"
+        "item": "the_deep_void:refined_onyx"
       },
-      "count": 10
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "minecraft:planks"
+      },
+      "count": 24
     }
   ],
   "result": {
