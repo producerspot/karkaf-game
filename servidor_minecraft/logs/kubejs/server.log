@@ -1,9 +1,9 @@
-[05:43:49] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[05:43:49] [INIT] Loaded plugins:
-[05:43:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[05:43:49] [INFO] Loaded script server_scripts:cursedwalkingrecipechanges.js in 0.004 s
-[05:43:49] [INFO] Loaded script server_scripts:itemRecipeBlacklist.js in 0.004 s
-[05:43:49] [INFO] Loaded script server_scripts:matt's_stims_server.js in 0.003 s
-[05:43:49] [INFO] Loaded 3/3 KubeJS server scripts in 0.056 s with 0 errors and 0 warnings
-[05:43:49] [INFO] Scripts loaded
-[05:43:49] [INFO] Initializing recipe event...
+[19:41:54] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:41:54] [INIT] Loaded plugins:
+[19:41:54] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:41:54] [INFO] Loaded script server_scripts:cursedwalkingrecipechanges.js in 0.002 s
+[19:41:54] [INFO] Loaded script server_scripts:itemRecipeBlacklist.js in 0.002 s
+[19:41:54] [INFO] Loaded script server_scripts:matt's_stims_server.js in 0.001 s
+[19:41:54] [INFO] Loaded 3/3 KubeJS server scripts in 0.021 s with 0 errors and 0 warnings
+[19:41:54] [INFO] Scripts loaded
+[19:41:54] [INFO] Initializing recipe event...
