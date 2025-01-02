@@ -3,7 +3,7 @@
 	#General Settings
 	#Maximum distance from where Blocks and Entities can be picked up
 	#Range: 0.0 ~ 1.7976931348623157E308
-	maxDistance = 2.5
+	maxDistance = 2.0
 	#Max width of entities that can be picked up in survival mode
 	#Range: 0.0 ~ 10.0
 	maxEntityWidth = 1.5
@@ -12,13 +12,13 @@
 	maxEntityHeight = 2.5
 	#Slowness multiplier for blocks
 	#Range: 0.0 ~ 1.7976931348623157E308
-	blockSlownessMultiplier = 1.0
+	blockSlownessMultiplier = 2.0
 	#Slowness multiplier for entities
 	#Range: 0.0 ~ 1.7976931348623157E308
-	entitySlownessMultiplier = 1.0
+	entitySlownessMultiplier = 2.0
 	#Maximum stack limit for entities
 	#Range: > 1
-	maxEntityStackLimit = 10
+	maxEntityStackLimit = 1
 	#More complex Tile Entities slow down the player more
 	heavyTiles = true
 	#Allow all blocks to be picked up, not just Tile Entites. White/Blacklist will still be respected.
@@ -30,7 +30,7 @@
 	#Larger Entities slow down the player more
 	heavyEntities = true
 	#Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)
-	allowBabies = false
+	allowBabies = true
 	#Use Whitelist instead of Blacklist for Blocks
 	useWhitelistBlocks = false
 	#Use Whitelist instead of Blacklist for Entities
@@ -44,7 +44,7 @@
 	#Use custom Pickup Scripts. Having this set to false, will not allow you to run scripts, but will increase your performance
 	useScripts = false
 	#Allows entities to be stacked on top of each other
-	stackableEntities = true
+	stackableEntities = false
 	#Whether entities' size matters when stacking or not. This means that larger entities cannot be stacked on smaller ones
 	entitySizeMattersStacking = true
 	#Usually all the block state information is retained when placing a block that was picked up. But some information is changed to a modified property, like rotation or orientation. In this list, add additional properties that should NOT be saved and instead be updated when placed. Format: modid:block[propertyname]. Note: You don't need to add an entry for every subtype of a same block. For example, we only add an entry for one type of slab, but the change is applied to all slabs.

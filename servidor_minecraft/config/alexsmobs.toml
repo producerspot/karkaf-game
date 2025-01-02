@@ -34,12 +34,17 @@
 	mimicreamBlacklist = ["alexsmobs:blood_sprayer", "alexsmobs:hemolymph_blaster"]
 	#Whether wild raccoons steal food from chests.
 	raccoonStealFromChests = true
+	#Whether wild crows steal crops from farmland.
+	crowsStealCrops = true
 	#Whether fish oil gives players a special levitation effect.
 	fishOilMeme = true
 	#Whether soul vulture spawns should be restricted solely to the nether fossil structure or to whatever biome is specified in their respective biome config.
 	soulVultureSpawnOnFossil = true
 	#Whether acacia blossoms should drop from blocks tagged with #alexsmobs:drops_acacia_blossoms
 	acaciaBlossomsDropFromLeaves = true
+	#1 out of this number chance for leaves to drop an acacia when broken. Fortune is automatically factored in
+	#Range: > 0
+	acaciaBlossomChance = 130
 	#Whether wandering traders offer items like acacia blossoms, mosquito larva, crocodile egg, etc.
 	wanderingTraderOffers = true
 	#0 = no mungus biome transformation. 1 = mungus changes blocks, but not chunk's biome. 2 = mungus transforms blocks and biome of chunk.
@@ -127,11 +132,6 @@
 	#The distance in blocks that will cause an underminer to dissapear when approached by a player.
 	#Range: 1.0 ~ 10000.0
 	underminerDisappearDistance = 8.0
-	#Whether wild crows steal crops from farmland.
-	crowsStealCrops = true
-	#1 out of this number chance for leaves to drop an acacia when broken. Fortune is automatically factored in
-	#Range: > 0
-	acaciaBlossomChance = 130
 
 [spawning]
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
