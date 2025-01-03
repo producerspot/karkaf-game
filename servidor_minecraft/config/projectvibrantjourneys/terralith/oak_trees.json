@@ -1,5 +1,29 @@
 [
   {
+    "biomeName": "terralith:shrublands",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:temperate_highlands",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:blooming_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:lush_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:shield",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:birch_taiga",
+    "chance": 5
+  },
+  {
     "biomeName": "terralith:ice_marsh",
     "chance": 10
   },
@@ -26,29 +50,5 @@
   {
     "biomeName": "terralith:skylands_autumn",
     "chance": 10
-  },
-  {
-    "biomeName": "terralith:shrublands",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:temperate_highlands",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:blooming_valley",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:lush_valley",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:shield",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:birch_taiga",
-    "chance": 5
   }
 ]

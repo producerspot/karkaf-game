@@ -2,26 +2,28 @@
   "materials": [
     {
       "item": {
-        "item": "pointblank:guninternals"
+        "tag": "forge:ingots/iron"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
       },
       "count": 8
     },
     {
       "item": {
-        "item": "the_deep_void:refined_onyx"
+        "tag": "minecraft:logs"
       },
-      "count": 6
-    },
-    
-    {
-      "item": {
-        "tag": "minecraft:planks"
-      },
-      "count": 24
+      "count": 12
     }
   ],
   "result": {
     "type": "gun",
-    "id": "tacz:sks_tactical"
+    "id": "tacz:sks_tactical",
+    "attachments": {
+      "stock": "tacz:oem_stock_tactical"
+    }
   }
 }

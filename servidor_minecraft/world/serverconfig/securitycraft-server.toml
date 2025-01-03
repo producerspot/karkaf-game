@@ -34,10 +34,6 @@ retinalScannerFace = true
 #Set this to true to enable every player on a scoreboard team (or FTB Teams party) to own the blocks of every other player on the same team.
 #This enables players on the same team to break each other's reinforced blocks, change options, add/remove modules, and have access to all other owner-restricted things.
 enable_team_ownership = false
-#This list defines in which order SecurityCraft checks teams of players to determine if they're on the same team, if "enable_team_ownership" is set to true. First in the list means it's checked first.
-#SecurityCraft will continue checking for teams down the list until it finds a case where the players are on the same team, or the list is over. E.g. Given the default config, if FTB Teams is installed but the players do not share a team, the mod checks if the same players are on the same vanilla team.
-#Removing an entry makes the mod ignore that kind of team. Valid values are "FTB_TEAMS" and "VANILLA".
-team_ownership_precedence = ["FTB_TEAMS", "VANILLA"]
 #Set this to true to disable sending the message that SecurityCraft shows when a player joins.
 #Note, that this stops showing the message for every player, even those that want to see them.
 disable_thanks_message = false
@@ -81,8 +77,6 @@ passcode_check_cooldown = 250
 passcode_spam_log_warning_enabled = true
 #The warning that is sent into the server log whenever a player tries to enter a passcode while on passcode cooldown. "%1$s" will be replaced with the player's name, "%2$s" with the passcode-protected object's name and "%3$s" with the object's position and dimension.
 passcode_spam_log_warning = "Player \"%1$s\" tried to enter a passcode into \"%2$s\" at position [%3$s] too quickly!"
-#Setting this to false disables the ability of the Universal Block Reinforcer to (un-)reinforce blocks that are placed in the world.
-in_world_un_reinforcing = true
 #Add entities to this list that the Sentry currently does not attack, but that you want the Sentry to attack. The denylist takes priority over the allowlist.
 sentry_attackable_entities_allowlist = []
 #Add entities to this list that the Sentry currently attacks, but that you want the Sentry to NOT attack. The denylist takes priority over the allowlist.

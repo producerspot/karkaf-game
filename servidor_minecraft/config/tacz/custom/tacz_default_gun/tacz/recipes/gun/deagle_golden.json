@@ -1,39 +1,31 @@
 {
   "materials": [
-  {
-  "item": {
-   "item": "the_deep_void:refined_onyx"
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
       },
-      "count": 3
-  },
-  {
-   "item": {
-   "item": "pointblank:guninternals"
+      "count": 1
     },
-    "count": 4
-  },
-  
-  {
-   "item": {
-     "item": "cw_additions:plastic_sheet"
-     },
-    "count": 4
-  },
-  {
-    "item": {
-      "item": "cw_additions:rubber_sheet"
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
       },
-     "count": 4
-   },
-   {
-    "item": {
-      "item": "minecraft:gold_ingot"
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
       },
-     "count": 20
-   }
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      }
+    }
   ],
   "result": {
     "type": "gun",
-    "id": "tacz:golden_deagle"
+    "id": "tacz:deagle_golden"
   }
 }

@@ -1,24 +1,11 @@
 {
   "materials": [
-  {
-  "item": {
-   "item": "the_deep_void:refined_onyx"
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
       },
-      "count": 3
-  },
-  {
-   "item": {
-   "item": "pointblank:guninternals"
-    },
-    "count": 3
-  },
- 
-  {
-   "item": {
-     "item": "cw_additions:plastic_sheet"
-     },
-    "count": 3
-  }
+      "count": 17
+    }
   ],
   "result": {
     "type": "gun",

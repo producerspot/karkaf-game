@@ -13,7 +13,7 @@
 
 [Misc]
 	#Whether the ''Seek Light'' warning should appear when the Stalker is close or not (Happens only one time)
-	SeekLightWarning = false
+	SeekLightWarning = true
 	#Whether light sources should be destroyed in the Deep Void or not
 	DestroyLightSources = true
 	#How long the Void Blessing effect should last when entering the Deep Void (In ticks)

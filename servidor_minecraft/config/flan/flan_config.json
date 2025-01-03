@@ -127,6 +127,7 @@
       "flan:wither": true,
       "flan:bed": true,
       "flan:trading": true,
+      "flan:create_contraption": true,
       "flan:archeology": true,
       "flan:edit_claim": true,
       "flan:projectiles": true,

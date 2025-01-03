@@ -2,32 +2,28 @@
   "materials": [
     {
       "item": {
-        "item": "pointblank:guninternals"
+        "tag": "forge:ingots/iron"
+      },
+      "count": 38
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
       },
       "count": 6
     },
     {
       "item": {
-        "item": "the_deep_void:refined_onyx"
+        "tag": "minecraft:logs"
       },
-      "count": 6
-    },
-    
-    {
-      "item": {
-        "item": "cw_additions:plastic_sheet"
-      },
-      "count": 10
-    },
-    {
-      "item": {
-        "item": "cw_additions:rubber_sheet"
-      },
-      "count": 10
+      "count": 8
     }
   ],
   "result": {
     "type": "gun",
-    "id": "tacz:m4a1"
+    "id": "tacz:m4a1",
+    "attachments": {
+      "stock": "tacz:oem_stock_tactical"
+    }
   }
 }

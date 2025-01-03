@@ -2,38 +2,34 @@
   "materials": [
     {
       "item": {
-        "item": "pointblank:guninternals"
+        "tag": "forge:ingots/iron"
+      },
+      "count": 56
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
       },
       "count": 8
     },
     {
       "item": {
-        "item": "the_deep_void:refined_onyx"
+        "tag": "forge:gems/quartz"
       },
-      "count": 7
-    },
-    
-    {
-      "item": {
-        "tag": "minecraft:planks"
-      },
-      "count": 24
-    },
-   {
-      "item": {
-        "item": "cw_additions:plastic_sheet"
-      },
-      "count": 10
+      "count": 8
     },
     {
       "item": {
-        "item": "cw_additions:rubber_sheet"
+        "tag": "minecraft:logs"
       },
-      "count": 10
+      "count": 12
     }
   ],
   "result": {
     "type": "gun",
-    "id": "tacz:rpk"
+    "id": "tacz:rpk",
+    "attachments": {
+      "stock": "tacz:oem_stock_heavy"
+    }
   }
 }

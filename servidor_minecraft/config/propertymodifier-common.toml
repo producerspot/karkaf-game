@@ -204,5 +204,5 @@
 	#Set the default attributes for entities. Format is "entityid" = "attributeid;value". Cannot add new attributes to mobs, can only alter those that are present by default anyway. Example (without the leading #):
 	#"minecraft:zombie" = "minecraft:generic.attack_damage;10"
 	[entities.default_attributes]
-		"mutantmonsters:mutant_zombie" = "minecraft:generic.max_health;1000.0"
+		test = ""
 

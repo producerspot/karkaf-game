@@ -2,25 +2,28 @@
   "materials": [
     {
       "item": {
-        "item": "pointblank:guninternals"
+        "tag": "forge:ingots/iron"
       },
-      "count": 9
+      "count": 38
     },
     {
       "item": {
-        "item": "the_deep_void:refined_onyx"
+        "tag": "forge:gems/lapis"
       },
-      "count": 5
+      "count": 6
     },
     {
       "item": {
-        "tag": "minecraft:planks"
+        "tag": "minecraft:logs"
       },
-      "count": 20
+      "count": 10
     }
   ],
   "result": {
     "type": "gun",
-    "id": "tacz:ak47"
+    "id": "tacz:ak47",
+    "attachments": {
+      "stock": "tacz:oem_stock_tactical"
+    }
   }
 }

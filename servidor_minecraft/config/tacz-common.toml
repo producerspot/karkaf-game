@@ -9,9 +9,11 @@
 	#Whether or not the player will consume ammo in creative mode
 	CreativePlayerConsumeAmmo = true
 	#Auto reload all the guns in player inventory, useful for pvp servers
-	AutoReloadWhenRespawn = true
+	AutoReloadWhenRespawn = false
 
 [ammo]
+	#Warning: Ammo with explosive properties can break blocks
+	ExplosiveAmmoDestroysBlock = true
 	#Warning: Ammo with explosive properties can set the surroundings on fire
 	ExplosiveAmmoFire = false
 	#Ammo with explosive properties can add knockback effect
@@ -27,12 +29,10 @@
 	IgniteBlock = true
 	#Whether a ammo can ignite the entity
 	IgniteEntity = true
-	#Warning: Ammo with explosive properties can break blocks
-	ExplosiveAmmoDestroysBlock = false
 
 [other]
 	#When enabled, the reload command will not overwrite the default model file under config
-	DefaultPackDebug = true
+	DefaultPackDebug = false
 	#The farthest sound distance of the target, including minecarts type
 	#Range: > 0
 	TargetSoundDistance = 128
